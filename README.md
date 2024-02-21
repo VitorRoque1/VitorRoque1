@@ -27,4 +27,4 @@
     
 </div>
   
-![Snake animation](https://github.com/VitorRoque1/VitorRoque1/blob/output/github-contribution-grid-snake.svg)
+
