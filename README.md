@@ -1,16 +1,32 @@
-### Hi there 👋
+# Olá! Me chamo Vitor Roque
+👨‍💻 Hoje trabalho como Suporte de Analista Junior
 
-<!--
-**VitorRoque1/VitorRoque1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Estudante de back end c# com foco em ASP.NET
 
-Here are some ideas to get you started:
+<div>
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorRoque1&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRoque1&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <h1 align="center">Melhores Tecnologias <3</h1>
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png">
+    <img align="center" height="30" width="40" alt="react-icon" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png">
+    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   </div>
+    
+  
+  <h1 align="center">Redes Sociais</h1>
+    <a href = "mailto: work.luigi.fonseca@gmail.com">
+    <a href="https://www.linkedin.com/in/vitor-roque-dos-santos/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+    </a>
+    </a>
+    </a>
+</div>
+  
+![Snake animation](https://github.com/Vitorroque1/Vitorroque1/blob/output/github-contribution-grid-snake.svg)
