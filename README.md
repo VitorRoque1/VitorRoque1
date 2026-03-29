@@ -80,18 +80,3 @@ Sempre evoluindo com consistência.
 
 </div>
 
----
-
-<div align="center">
-
-<img width="120" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Longsword_icon.svg/512px-Longsword_icon.svg.png"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,50:8b0000,100:1a0000&section=footer"/>
-
-</div>
