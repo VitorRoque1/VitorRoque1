@@ -62,6 +62,6 @@ Sempre evoluindo com consistência.
 
 ## 🩸 Filosofia
 
-> Mesmo carregando peso, continuo avançando.
+> A dor que você carrega  é a força que molda sua alma.
 
 </div>
