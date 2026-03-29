@@ -14,51 +14,90 @@
 
 ---
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
+
+<img src="https://media.tenor.com/8dru8xR3Z1AAAAAC/guts-berserk.gif" width="850"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🗡 Tech Stack
+
+![C#](https://img.shields.io/badge/C%23-8B0000?style=for-the-badge\&logo=csharp\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-8B0000?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-8B0000?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-8B0000?style=for-the-badge\&logo=javascript\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-8B0000?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-8B0000?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![React](https://img.shields.io/badge/React-8B0000?style=for-the-badge\&logo=react\&logoColor=white)
+
+</div>
+
+---
 
 # ⚔️ Sobre mim
 
-```txt id="39f7yx"
-Desenvolvedor Full Stack com foco em back-end
-utilizando C#, .NET e SQL Server.
+```txt id="h5w8ka"
+Desenvolvedor Full Stack com foco em back-end,
+atuando com C#, .NET, SQL Server e APIs.
 
-Atuação também com front-end usando
-JavaScript, TypeScript, Node.js e React.
+No front-end trabalho com JavaScript,
+TypeScript, Node.js e React.
 
 Sempre evoluindo com consistência.
 ```
 
 ---
 
-# 💻 Linguagens
+<div align="center">
+
+# 📊 Linguagens mais usadas
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRoque1&layout=compact&theme=tokyonight&hide_border=true"/>
 
----
-
-# 📊 Analytics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorRoque1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-</td>
-
-<td width="50%">
-
-<img src="https://media.tenor.com/8dru8xR3Z1AAAAAC/guts-berserk.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
 <div align="center">
 
-# ⚡ Filosofia
+# 📈 GitHub Analytics
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorRoque1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=VitorRoque1&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🐍 Contributions
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+# 🩸 Filosofia
 
 > "Mesmo carregando peso, continuo avançando."
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="120" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Longsword_icon.svg/512px-Longsword_icon.svg.png"/>
 
 </div>
 
