@@ -28,9 +28,7 @@ Desenvolvedor .NET | Estudando React | Apaixonado por tecnologia
 
 ## 📊 Estatísticas GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorRoque1&show_icons=true&theme=tokyonight)
-
----
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorRoque1&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ## 🔥 Linguagens mais usadas
 
