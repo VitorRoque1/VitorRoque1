@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,100:434343&text=Vitão%20Full%20Stack%20Developer&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,100:434343&text=Vitor%20Roque%20|%20Full%20Stack%20Developer&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=40"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Back-End+com+C%23+e+.NET;SQL+Server+%7C+JavaScript+%7C+TypeScript;Node.js+%7C+React;Sempre+evoluindo+⚔️" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;C%23+%7C+.NET+%7C+SQL+Server;JavaScript+%7C+TypeScript+%7C+Node.js;React+%7C+Back-End+%7C+Front-End;Sempre+evoluindo+⚔️" />
 
 </div>
 
@@ -25,11 +25,11 @@
 # ⚔️ Sobre mim
 
 ```txt
-Desenvolvedor Full Stack focado em construir aplicações web,
-atuando no back-end com C#/.NET e banco de dados SQL Server,
-além de front-end com JavaScript, TypeScript, Node.js e React.
+Desenvolvedor Full Stack focado em back-end com C#/.NET,
+SQL Server e APIs, além de front-end com JavaScript,
+TypeScript, Node.js e React.
 
-Sempre evoluindo, aprendendo e buscando projetos cada vez maiores.
+Construindo evolução constante todos os dias.
 ```
 
 ---
@@ -55,44 +55,28 @@ Sempre evoluindo, aprendendo e buscando projetos cada vez maiores.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitorRoque1\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorRoque1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRoque1\&layout=compact\&theme=tokyonight\&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRoque1&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SEUUSUARIO\&theme=tokyonight\&hide_border=true)
+<img height="180em" src="https://streak-stats.demolab.com?user=VitorRoque1&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+---
+
+# 🚀 Projetos
+
+* Sistema Web com ASP.NET
+* API com Node.js
+* Aplicações React
+* Banco de Dados SQL Server
 
 ---
 
 # ⚡ Filosofia
 
-<div align="center">
-
 > "Mesmo carregando peso, continuo avançando."
-
-</div>
-
----
-
-# 🐍 Contributions
-
-<div align="center">
-
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-# 📫 Contato
-
-<div align="center">
-
-LinkedIn: seu link aqui
-Email: seu email aqui
-
-</div>
 
 ---
 
