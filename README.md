@@ -53,13 +53,7 @@ Sempre evoluindo com consistência.
 
 ---
 
-<div align="center">
 
-# 📊 Linguagens mais usadas
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRoque1&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
