@@ -5,15 +5,19 @@
 🎨 Apaixonado por código, design e lifestyle moderno
 </p>
 
+<p align="center">
+<img src="https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif" alt="Guts Berserk" width="250"/>
+</p>
+
 ---
 
 ## 🖤 Sobre mim
 
-* 💻 Full Stack Developer: JavaScript, React, Node.js
-* 🌱 Sempre aprendendo e evoluindo
-* 😄 Otimista, sorridente e curioso por natureza
-* 🎯 Buscando projetos que desafiem e inspirem
-* 🌙 Gosto de visual dark, minimalista e elegante
+* 💻 Full Stack Developer: JavaScript, React, Node.js  
+* 🌱 Sempre aprendendo e evoluindo  
+* 😄 Otimista, sorridente e curioso por natureza  
+* 🎯 Buscando projetos que desafiem e inspirem  
+* 🌙 Gosto de visual dark, minimalista e elegante  
 
 ---
 
@@ -33,17 +37,28 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Minhas Linguagens & Progresso
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=VitorRoque1&show_icons=true&theme=tokyonight&count_private=true"/>
+  <p>JavaScript <b>90%</b></p>
+  <img src="https://progress-bar.dev/90/?color=F7DF1E&suffix=%25&title=JavaScript" width="300">
+  
+  <p>React <b>85%</b></p>
+  <img src="https://progress-bar.dev/85/?color=61DAFB&suffix=%25&title=React" width="300">
 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRoque1&layout=compact&theme=tokyonight&hide=csharp"/>
+  <p>Node.js <b>80%</b></p>
+  <img src="https://progress-bar.dev/80/?color=339933&suffix=%25&title=Node.js" width="300">
+
+  <p>HTML <b>95%</b></p>
+  <img src="https://progress-bar.dev/95/?color=E34F26&suffix=%25&title=HTML" width="300">
+
+  <p>CSS <b>90%</b></p>
+  <img src="https://progress-bar.dev/90/?color=1572B6&suffix=%25&title=CSS" width="300">
 </div>
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos em Destaque
 
 <div align="center">
 
@@ -51,7 +66,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=VitorRoque1&repo=calculadoraPosto&theme=tokyonight"/>
 </a>
 
-<!-- Adicione mais projetos aqui -->
+<a href="https://github.com/VitorRoque1/portfolio" target="_blank">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=VitorRoque1&repo=portfolio&theme=tokyonight"/>
+</a>
 
 </div>
 
