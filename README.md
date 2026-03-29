@@ -6,15 +6,11 @@
 
 </div>
 
----
-
 <div align="center">
 
 <img src="https://media.tenor.com/8dru8xR3Z1AAAAAC/guts-berserk.gif" width="850"/>
 
 </div>
-
----
 
 <div align="center">
 
