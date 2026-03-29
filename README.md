@@ -13,13 +13,19 @@
 ## ⚔️ Sobre mim
 
 <p>
-Desenvolvedor Full Stack com foco em back-end,<br>
-atuando com C#, .NET, SQL Server e APIs.<br><br>
+Desenvolvedor Full Stack focado em back-end,  
+atuando com **C#**, **.NET**, **SQL Server** e **APIs**.
 
-No front-end trabalho com JavaScript,<br>
-TypeScript, Node.js e React.<br><br>
+No front-end, trabalho com **JavaScript**, **TypeScript**,  
+**Node.js** e **React**.
 
-Sempre evoluindo com consistência.
+Sempre evoluindo com consistência e determinação.  
+
+---
+
+### 🩸 Filosofia
+
+> A dor que você carrega é a força que molda sua alma.
 
 </p>
 
@@ -60,8 +66,3 @@ Sempre evoluindo com consistência.
 
 <div align="center">
 
-## 🩸 Filosofia
-
-> A dor que você carrega  é a força que molda sua alma.
-
-</div>
