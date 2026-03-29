@@ -1,7 +1,4 @@
-
-
----
-
+````md
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;C%23+%7C+.NET+%7C+SQL+Server;JavaScript+%7C+TypeScript+%7C+Node.js;React+%7C+Construindo+evolução+todos+os+dias" />
@@ -9,13 +6,22 @@
 </div>
 
 ---
-<div align="center">
 
-<img src="https://media.tenor.com/8dru8xR3Z1AAAAAC/guts-berserk.gif" width="850"/>
+<table>
+<tr>
+<td width="60%">
 
-</div>
+# ⚔️ Sobre mim
 
-<div align="center">
+```txt
+Desenvolvedor Full Stack com foco em back-end,
+atuando com C#, .NET, SQL Server e APIs.
+
+No front-end trabalho com JavaScript,
+TypeScript, Node.js e React.
+
+Sempre evoluindo com consistência.
+````
 
 # 🗡 Tech Stack
 
@@ -28,25 +34,15 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
-</div>
+</td>
 
----
+<td width="40%">
 
-# ⚔️ Sobre mim
+<img src="https://i.pinimg.com/736x/25/ec/e3/25ece3174be39761a741580c70bc8ed4.jpg" width="300"/>
 
-```txt id="9p9x9v"
-Desenvolvedor Full Stack com foco em back-end,
-atuando com C#, .NET, SQL Server e APIs.
-
-No front-end trabalho com JavaScript,
-TypeScript, Node.js e React.
-
-Sempre evoluindo com consistência.
-```
-
----
-
-
+</td>
+</tr>
+</table>
 
 ---
 
@@ -76,7 +72,7 @@ Sempre evoluindo com consistência.
 
 # 🩸 Filosofia
 
-> "Mesmo carregando peso, continuo avançando."
+> Mesmo carregando peso, continuo avançando.
 
 </div>
-
+```
