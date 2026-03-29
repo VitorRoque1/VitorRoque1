@@ -1,10 +1,4 @@
-<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:1a0000,50:8b0000,100:000000&text=Vitor%20Roque%20⚔️&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38"/>
-
-</div>
-
----
 
 <div align="center">
 
