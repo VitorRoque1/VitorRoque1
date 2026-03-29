@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;C%23+%7C+.NET+%7C+SQL+Server;JavaScript+%7C+TypeScript+%7C+Node.js;React+%7C+Construindo+evolução+todos+os+dias" />
@@ -11,19 +10,20 @@
 <tr>
 <td width="60%">
 
-# ⚔️ Sobre mim
+## ⚔️ Sobre mim
 
-```txt
-Desenvolvedor Full Stack com foco em back-end,
-atuando com C#, .NET, SQL Server e APIs.
+<p>
+Desenvolvedor Full Stack com foco em back-end,<br>
+atuando com C#, .NET, SQL Server e APIs.<br><br>
 
-No front-end trabalho com JavaScript,
-TypeScript, Node.js e React.
+No front-end trabalho com JavaScript,<br>
+TypeScript, Node.js e React.<br><br>
 
 Sempre evoluindo com consistência.
-````
 
-# 🗡 Tech Stack
+</p>
+
+## 🗡 Tech Stack
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
@@ -48,7 +48,7 @@ Sempre evoluindo com consistência.
 
 <div align="center">
 
-# 📈 GitHub Analytics
+## 📈 GitHub Analytics
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorRoque1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
@@ -60,19 +60,8 @@ Sempre evoluindo com consistência.
 
 <div align="center">
 
-# 🐍 Contributions
-
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-<div align="center">
-
-# 🩸 Filosofia
+## 🩸 Filosofia
 
 > Mesmo carregando peso, continuo avançando.
 
 </div>
-```
