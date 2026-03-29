@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;C%23+%7C+.NET+%7C+SQL+Server;JavaScript+%7C+TypeScript+%7C+Node.js;React+%7C+Construindo+evolução+todos+os+dias" />
 
 </div>
-
+--
 <div align="center">
 
 <img src="https://media.tenor.com/8dru8xR3Z1AAAAAC/guts-berserk.gif" width="850"/>
