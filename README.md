@@ -23,6 +23,9 @@ Sempre evoluindo com consistência e determinação.
 ### 🩸 Filosofia
 
 > A dor que você carrega é a força que molda sua alma.
+> <a href="https://www.linkedin.com/in/vitor-roque-dos-santos/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 ## 🗡 Tech Stack
 
@@ -36,9 +39,7 @@ Sempre evoluindo com consistência e determinação.
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
 
-<a href="https://www.linkedin.com/in/vitor-roque-dos-santos/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+
 
 
 </a>
