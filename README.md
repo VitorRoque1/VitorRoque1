@@ -47,16 +47,5 @@ Sempre evoluindo com consistência e determinação.
 
 ---
 
-<div align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRoque1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-## 📈 GitHub Analytics
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=VitorRoque1&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRoque1&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img height="170em" src="https://streak-stats.demolab.com?user=VitorRoque1&theme=tokyonight&hide_border=true"/>
-
-</div>
