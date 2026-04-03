@@ -1,76 +1,74 @@
-<div align="center">
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="150"/>
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;C%23+%7C+.NET+%7C+SQL+Server;JavaScript+%7C+TypeScript+%7C+Node.js;React+%7C+Construindo+evolução+todos+os+dias" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;C%23+%7C+.NET+%7C+SQL+Server;JavaScript+%7C+TypeScript+%7C+Node.js;React+%7C+Construindo+evolução+todos+os+dias&font=Fira%20Code&center=true&width=700&height=45&color=FFFFFF&vCenter=true&pause=1000&size=22" />
+</p>
 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com">
+    <img width="32px" src="https://i.imgur.com/yRpa1dQ.png"/>
+  </a>
+  &#8287;&#8287;&#8287;
+  <a href="mailto:seuemail@email.com">
+    <img width="32px" src="https://i.imgur.com/mVm29vK.png"/>
+  </a>
+</p>
 
----
+<br/>
 
-<table>
-<tr>
-<td width="60%">
+<p align="center">
+  <a href="https://github.com/VitorRoque1?tab=followers">
+    <img src="https://custom-icon-badges.demolab.com/github/followers/VitorRoque1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+  </a>
+</p>
 
-## ⚔️ Sobre mim
+<details open>
+<summary><h2>⚔️ My Tech Stack</h2></summary>
 
-Desenvolvedor Full Stack focado em back-end,
-atuando com **C#**, **.NET**, **SQL Server** e **APIs**.
+<h3>👨‍💻 Back-end</h3>
+<p>
+<img src="https://img.shields.io/badge/C%23-512BD4.svg?logo=csharp&logoColor=white">
+<img src="https://img.shields.io/badge/.NET-512BD4.svg?logo=dotnet&logoColor=white">
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927.svg?logo=microsoftsqlserver&logoColor=white">
+</p>
 
-No front-end, trabalho com **JavaScript**, **TypeScript**,
-**Node.js** e **React**.
+<h3>🌐 Front-end</h3>
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white">
+</p>
 
-Sempre evoluindo com consistência e determinação.
+<h3>🛠 Tools</h3>
+<p>
+<img src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visualstudio&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+</p>
 
-### 🩸 Filosofia
+</details>
 
-> A dor que você carrega é a força que molda sua alma.
+<details open>
+<summary><h2>📊 GitHub Stats</h2></summary>
 
-## 🗡 Tech Stack
+<br/>
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+<p align="center">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=VitorRoque1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=VitorRoque1&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+</p>
 
-</td>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VitorRoque1&theme=tokyonight&hide_border=true"/>
+</p>
 
-<td width="40%">
+</details>
 
-<img src="https://i.pinimg.com/736x/25/ec/e3/25ece3174be39761a741580c70bc8ed4.jpg" width="300"/>
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-<div align="center">
-
-## 📈 GitHub Analytics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorRoque1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRoque1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<br><br>
-
-<img height="180em" src="https://streak-stats.demolab.com?user=VitorRoque1&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-## 🌐 Contato
-
-<a href="https://www.linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:seuemail@email.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+<p align="center">
+  <i>A dor que você carrega é a força que molda sua alma. ⚔️</i>
+</p>
