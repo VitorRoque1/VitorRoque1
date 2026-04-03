@@ -45,10 +45,6 @@ Sempre evoluindo com consistência e determinação.
 </tr>
 </table>
 
----
-
-<div align="center">
-
 ## 📈 GitHub Analytics
 
 <img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=VitorRoque1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF"/>
@@ -63,6 +59,12 @@ Sempre evoluindo com consistência e determinação.
 ---
 
 <div align="center">
+
+
+---
+
+<div align="center">
+
 
 ## 🌐 Contato
 
