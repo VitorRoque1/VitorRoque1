@@ -57,7 +57,6 @@ Sempre evoluindo com consistência e determinação.
 
 <br><br>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=VitorRoque1&theme=tokyonight&hide_border=true"/>
 
 </div>
 
