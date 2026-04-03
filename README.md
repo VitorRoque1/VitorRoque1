@@ -12,22 +12,17 @@
 
 ## ⚔️ Sobre mim
 
-<p>
-Desenvolvedor Full Stack focado em back-end,  
+Desenvolvedor Full Stack focado em back-end,
 atuando com **C#**, **.NET**, **SQL Server** e **APIs**.
 
-No front-end, trabalho com **JavaScript**, **TypeScript**,  
+No front-end, trabalho com **JavaScript**, **TypeScript**,
 **Node.js** e **React**.
 
-Sempre evoluindo com consistência e determinação.  
-
----
+Sempre evoluindo com consistência e determinação.
 
 ### 🩸 Filosofia
 
 > A dor que você carrega é a força que molda sua alma.
-
-</p>
 
 ## 🗡 Tech Stack
 
@@ -55,23 +50,13 @@ Sempre evoluindo com consistência e determinação.
 <div align="center">
 
 ## 📈 GitHub Analytics
-<div align="center">
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=VitorRoque1&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRoque1&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
-
-<div align="center">
+<br><br>
 
 <img height="170em" src="https://streak-stats.demolab.com?user=VitorRoque1&theme=tokyonight&hide_border=true"/>
 
 </div>
-
-</div>
-
----
-
-<div align="center">
-
